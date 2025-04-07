@@ -14,7 +14,6 @@ En aquesta activitat crearàs un repositori de GitHub i redactaràs un fitxer `R
 
 Són frases destacades, útils per donar context, consells o avisos importants.
 
-```markdown
 > Aquesta és una quote. Pot tenir vàries línies i es mostra destacada al Markdown.
 
 ### 🔸 Taules   complexes
