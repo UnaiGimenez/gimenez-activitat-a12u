@@ -49,11 +49,11 @@ A Git Bash dins de VS Code, escriu:
 Has d’incloure:
 
 ✅ Una quote destacant el propòsit
-markdown
+
 
 > Aquesta documentació té com a objectiu practicar quotes i taules complexes per millorar la claredat dels projectes a GitHub.
 ✅ Una taula amb informació detallada dels fitxers del projecte
-markdown
+
 
 | Arxiu             | Tipus            | Ús principal                       | Última modificació | Estat actual |
 |-------------------|------------------|------------------------------------|---------------------|---------------|
@@ -61,7 +61,7 @@ markdown
 | `main.py`         | Python           | Script principal                   | 05/04/2025          | 🟡 En revisió  |
 | `config.json`     | Configuració     | Paràmetres generals                | (no modificat)      | 🔴 Pendent     |
 ✅ Una secció de passos
-markdown
+
 
 ## Passos seguits
 
