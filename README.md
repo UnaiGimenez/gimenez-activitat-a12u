@@ -45,3 +45,33 @@ A Git Bash dins de VS Code, escriu:
 **git clone https://github.com/el-teu-usuari/cognom-activitat-a12u.git**
 **cd cognom-activitat-a12u**
 
+3️⃣ Crea el fitxer README.md
+Has d’incloure:
+
+✅ Una quote destacant el propòsit
+markdown
+Copiar
+Editar
+> Aquesta documentació té com a objectiu practicar quotes i taules complexes per millorar la claredat dels projectes a GitHub.
+✅ Una taula amb informació detallada dels fitxers del projecte
+markdown
+Copiar
+Editar
+| Arxiu             | Tipus            | Ús principal                       | Última modificació | Estat actual |
+|-------------------|------------------|------------------------------------|---------------------|---------------|
+| `README.md`       | Markdown         | Documentació del projecte          | 06/04/2025          | ✅ Completat   |
+| `main.py`         | Python           | Script principal                   | 05/04/2025          | 🟡 En revisió  |
+| `config.json`     | Configuració     | Paràmetres generals                | (no modificat)      | 🔴 Pendent     |
+✅ Una secció de passos
+markdown
+Copiar
+Editar
+## Passos seguits
+
+1. Crear el repositori a GitHub.
+2. Clonar el projecte amb Git Bash.
+3. Crear el fitxer `README.md`.
+4. Escriure quotes per destacar informació.
+5. Afegir una taula complexa amb contingut realista.
+6. Fer commits amb missatges clars.
+7. Fer push al repositori remot.
