@@ -25,8 +25,7 @@ Pots combinar text, codi, dates i estats de tasques dins d’una taula:
 | `style.css`        | Estils de la pàgina          | 05/04/2025       | 🟡 En procés |
 | `script.js`        | Lògica JavaScript bàsica     | (sense canvis)   | 🔴 Pendent |
 
-
-## 📝 Instruccions de l’activitat
+## Instruccions de l’activitat
 1️⃣ Crea el teu repositori
 Nom del repositori: cognom-activitat-a12u
 
