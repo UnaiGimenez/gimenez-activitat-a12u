@@ -38,3 +38,12 @@ Clica Create repository.
 
 Convida a joanpardogine com a col·laborador.
 
+2️⃣ Clona el repositori
+A Git Bash dins de VS Code, escriu:
+
+bash
+Copiar
+Editar
+cd /c/projectes
+git clone https://github.com/el-teu-usuari/cognom-activitat-a12u.git
+cd cognom-activitat-a12u
