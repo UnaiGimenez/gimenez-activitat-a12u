@@ -50,13 +50,11 @@ Has d’incloure:
 
 ✅ Una quote destacant el propòsit
 markdown
-Copiar
-Editar
+
 > Aquesta documentació té com a objectiu practicar quotes i taules complexes per millorar la claredat dels projectes a GitHub.
 ✅ Una taula amb informació detallada dels fitxers del projecte
 markdown
-Copiar
-Editar
+
 | Arxiu             | Tipus            | Ús principal                       | Última modificació | Estat actual |
 |-------------------|------------------|------------------------------------|---------------------|---------------|
 | `README.md`       | Markdown         | Documentació del projecte          | 06/04/2025          | ✅ Completat   |
@@ -64,8 +62,7 @@ Editar
 | `config.json`     | Configuració     | Paràmetres generals                | (no modificat)      | 🔴 Pendent     |
 ✅ Una secció de passos
 markdown
-Copiar
-Editar
+
 ## Passos seguits
 
 1. Crear el repositori a GitHub.
